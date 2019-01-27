@@ -1,4 +1,7 @@
-# vue-final
+# Vue ToDo List
+
+A sample app to demonstrate Vue + Vuex + Vuetify + Vee-Validate features.
+See [demo](https://alexander-elgin.github.io/vue-todo-list/)
 
 ## Project setup
 ```
