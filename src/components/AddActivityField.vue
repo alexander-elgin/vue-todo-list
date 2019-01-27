@@ -40,6 +40,7 @@ export default {
         this.$store.dispatch('add', this.newActivityTitle.trim())
         this.newActivityTitle = ''
         this.$refs.field.blur()
+        this.$validator.reset()
         this.$refs.form.reset()
       }
     },
